@@ -17,7 +17,7 @@
 -->
 
 ### About Me:
-I’ve been passionate about technology for as long as I can remember, starting with gaming on old Windows XP and 2000 systems. I have a Bachelor of Science (BSc) degree in Physics with a strong focus in mathematics. I am interested in Cybersecurity due to my strong background in complex problem solving, computational modeling as well as my passion for technology. 
+I’ve been passionate about technology for as long as I can remember, starting with gaming on old Windows XP and 2000 systems. I have a Bachelor of Science (BSc) degree in Physics with a strong focus in mathematics. I am interested in Machine Learning and Cybersecurity due to my strong background in complex problem solving, computational modeling as well as my passion for technology. 
 
 <!--
     some of my skills, i left some stuff out like c#, unity, and js because i've only ever played around with them :)
@@ -26,7 +26,7 @@ I’ve been passionate about technology for as long as I can remember, starting 
 ### Main Skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,linux,bash,powershell,ps" />
+    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,linux,bash,powershell,ps" />
   </a>
 </p>
 
