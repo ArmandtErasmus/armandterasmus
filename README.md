@@ -9,13 +9,13 @@
 
 <!--
     if you are really interested, i also like astrophotography, i have a nice telescope setup with a dslr which tracks stars automatically, my favourite capture is one i took of the orion nebula :)
-    i also enjoy playing competitive games with my friends like cs or valo
+    i also enjoy playing games with my friends like cs or valo
 -->
 ### Projects:
 Explore some of my projects: www.armandterasmus.com
 
 ### About Me:
-I’ve been passionate about technology for as long as I can remember, starting with gaming on old Windows XP and 2000 systems. I have a Bachelor of Science (BSc) degree in Physics with a strong focus in mathematics. I have a passion for statistics and machine learning - especially their application within the finance space.
+I have a passion for statistics and machine learning - especially their application within the finance space. I'm also a recent graduate - with a Bachelor of Science (BSc) degree in Physics with a strong focus in mathematics.
 
 <!--
     some of my skills, i left some stuff out like c#, unity, and js because i've only ever played around with them :)
