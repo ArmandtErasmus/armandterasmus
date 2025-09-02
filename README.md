@@ -14,7 +14,7 @@
 Explore some of my projects: www.armandterasmus.com
 
 ### About Me:
-Graduate with a Bachelor of Science (BSc) degree in Physics. Skilled in computational and financial modelling with a passion for actuarial science, quantitative finance, and leveraging programming to develop innovative financial and risk models.
+Graduate with a Bachelor of Science (BSc) degree in Physics. Skilled in computational and financial modelling with a passion for actuarial science, quantitative finance, and leveraging programming to develop financial and risk models.
 <!--
     for some of my skills, i left some stuff out like c#, unity, and js because i've only ever played around with them :)
 -->
@@ -22,7 +22,7 @@ Graduate with a Bachelor of Science (BSc) degree in Physics. Skilled in computat
 ### Main Skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,linux,bash,powershell,ps" />
+    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,postgres,r,selenium,linux,bash" />
   </a>
 </p>
 
