@@ -1,7 +1,7 @@
 <!--
     Hey I'm Armandt Erasmus!
     Feel free to use my readme file :) 
-    Resources: Capsule-Generator (vercel), terminalgif.com
+    Resources: Capsule-Generator (vercel), terminalgif.comm A.R.
     Let's connect on LinkedIn: @armandterasmus 
 -->
 
