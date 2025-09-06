@@ -7,7 +7,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Armandt%20Erasmus&reversal=false&fontAlign=50&fontAlignY=34&desc=BSc%20Physics&descAlignY=54" alt="header"/>
 
-<!--
+<!-- 
     if you are really interested, i also like astrophotography, i have a nice telescope setup with a dslr which tracks stars automatically, my favourite capture is one i took of the orion nebula :)
 -->
 ### Projects:
