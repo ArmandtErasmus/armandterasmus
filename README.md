@@ -14,7 +14,7 @@
 Explore some of my projects: www.armandterasmus.com
 
 ### About Me:
-Bachelor of Science Honours (BScHons) Physics student with experience in financial modelling, machine learning and risk analysis across insurance and capital markets.
+Actuarial Analyst and BScHons Physics student with experience in financial modelling, machine learning and risk analysis across insurance and capital markets.
 <!--
     for some of my skills, i left some stuff out like c#, unity, and js because i've only ever played around with them :)
 -->
