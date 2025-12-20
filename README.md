@@ -22,7 +22,7 @@ Actuarial Analyst and BScHons Physics student with experience in financial model
 ### Main Skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,postgres,r,selenium,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,sklearn,tensorflow,postgres,r,selenium,linux,bash" />
   </a>
 </p>
 
