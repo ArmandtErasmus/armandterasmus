@@ -16,7 +16,7 @@ Explore some of my projects: www.armandterasmus.com
 ### About Me:
 Actuarial Analyst and BScHons Physics student with experience in financial modelling, machine learning and risk analysis across insurance and capital markets.
 <!--
-    for some of my skills, i left some stuff out like c#, unity, and js because i've only ever played around with them :)
+    for some of my skills, i left some stuff out like c# and js because i've only ever played around with them :)
 -->
 
 ### Main Skills:
