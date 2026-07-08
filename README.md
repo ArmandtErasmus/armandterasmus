@@ -14,7 +14,7 @@
 Explore some of my projects: www.armandterasmus.com
 
 ### About Me:
-Actuarial Analyst and BScHons Physics student with experience in financial modelling, machine learning and risk analysis across insurance and capital markets.
+Actuarial risk professional completing a dual BScHons in Physics and Financial Engineering, building scalable actuarial software and machine learning solutions to support risk management and data-driven decision-making.
 <!--
     for some of my skills, i left some stuff out like c# and js because i've only ever played around with them :)
 -->
