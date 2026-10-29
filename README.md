@@ -5,7 +5,7 @@
     Let's connect on LinkedIn: @armandterasmus 
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Armandt%20Erasmus&desc=Actuarial%20Analyst,%20BScHons%20in%20Physics%20specialising%20in%20Financial%20Engineering&descAlignY=52&fontAlignY=29" alt="header"/>
+[<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Armandt%20Erasmus&desc=Actuarial%20Analyst,%20BScHons%20in%20Physics%20specialising%20in%20Financial%20Engineering&descAlignY=52&fontAlignY=29" alt="header"/>](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&reversal=false&text=Armandt+Erasmus&textBg=false&fontSize=70&fontAlign=50&fontAlignY=26&rotate=0&strokeWidth=0&desc=Actuarial+Software+Engineer%2C+BScHons+in+Physics&descSize=30&descAlign=50&descAlignY=51)
 
 <!-- 
     if you are really interested, i also like astrophotography, i have a nice telescope setup with a dslr which tracks stars automatically, my favourite capture is one i took of the orion nebula :)
